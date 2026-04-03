@@ -1,4 +1,4 @@
-# DRL2FC_PPO
+# XRL2FC
 This project implements a Proximal Policy Optimization (PPO) agent to control frequency in a single-area Load Frequency Control (LFC) system. The environment is modeled in a custom Gymnasium-compatible simulator. The agent is trained using Stable-Baselines3 and demonstrates strong performance under randomly generated load disturbances.
 
 ---
