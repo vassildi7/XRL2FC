@@ -61,7 +61,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 ---
 
 ## Aknowledgements
-Developed as part of the work described in the paper "XRL2FC: Cyber-Resilient Load Frequency Control of Interconnected Power Systems Using Explainable Reinforcement Learning"
+Developed as part of the work described in the paper "XRL2FC: Explainable and Cyber-Resilient Reinforcement Learning for Load Frequency Control"
 
 
 
